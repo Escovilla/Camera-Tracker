@@ -3,7 +3,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 </p>
-Camera Tracking using the cheapest and the most easiest way to deploy application
+Camera Tracking using the cheapest and the most easiest way to deploy and understand the application
 
 
 The tracking works by dividing the camera by left and right and adding a center area by
