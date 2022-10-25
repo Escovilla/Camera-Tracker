@@ -2,8 +2,6 @@
 # Camera-Tracker
 <p align="center">
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
-	<img src="https://img.shields.io/github/last-commit//?color=green"/>
-	<img src="https://img.shields.io/github/languages/count//?color=green"/>
 </p>
 Camera Tracking using the cheapest and the most easiest way to deploy application
 
@@ -45,10 +43,6 @@ pip install opencv-contrib-python
 ```
 ## Schematic
 ![alt text](https://hackster.imgix.net/uploads/attachments/1160823/power_2_1_Rj5cILE90T.png?auto=compress%2Cformat&w=680&h=510&fit=max)
-
-<p align="center">
-	<a href="#tech-stack">Tech Stack</a> 
-</p>
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino" alt="arduino Badge" height="25">&nbsp;
