@@ -1,8 +1,6 @@
 
 int motor1pin1 = 2;
 int motor1pin2 = 3;
-#define stepsPerRevolution1 100
-#define stepsPerRevolution 100
 void setup() {
   Serial.begin(115200);
   pinMode(motor1pin1, OUTPUT);
