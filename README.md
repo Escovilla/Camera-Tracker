@@ -17,7 +17,7 @@ the motor will move in the opposite side until it reaches the center area
 ## Prerequisites
 Harware Stuff
 - Arduino Uno
-- L298N (motor driver) [Buy]([https://www.google.com](https://shopee.ph/L298N-driver-board-module-L298-stepper-motor-smart-car-robot-breadboard-peltier-High-Power-i.704425762.18205405177?gclid=CjwKCAjw79iaBhAJEiwAPYwoCN19t8kzjvP_LiYTrEuobE9o6mMWY9BZRIK91MMlr5c4EYVFFA549BoCbbwQAvD_BwE))
+- L298N (motor driver) 
 - Dc Motor
 
 Python
