@@ -4,6 +4,7 @@
 Camera Tracking using the cheapest and the most easiest way to deploy application
 
 The tracking works by dividing the camera by left and right and adding a center area
+
 using media pipe you can narrow down the detection to specify the coordinates of the nose
 if the nose is in the area of the center there is no motor movement 
 if the nose is detected in the left side of the right side 
