@@ -44,6 +44,12 @@ pip install opencv-contrib-python
 ## Schematic
 ![alt text](https://hackster.imgix.net/uploads/attachments/1160823/power_2_1_Rj5cILE90T.png?auto=compress%2Cformat&w=680&h=510&fit=max)
 
+## Reference
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [How to use the L298N Motor Driver](https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
+ - [Mediapipe](https://google.github.io/mediapipe/)
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino" alt="arduino Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
