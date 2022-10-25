@@ -14,7 +14,7 @@ the motor will move in the opposite side until it reaches the center area
 
 
 
-You can add the UP and DOWN tracking
+You can add the UP and DOWN tracking with the Side to Side traking by adding another motor and modifiying the code
 
 
 
