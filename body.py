@@ -7,7 +7,7 @@ mp_drawing_styles = mp.solutions.drawing_styles
 mp_pose = mp.solutions.pose
 
 arduino = serial.Serial(port='COM11', baudrate=115200, timeout=.1)
-cap=cv2.VideoCapture(0)
+cap=cv2.VideoCapture("http://172.16.6.66:81/stream")
 box = 70
 
 with mp_pose.Pose(
