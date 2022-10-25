@@ -14,6 +14,10 @@ the motor will move in the opposite side until it reaches the center area
 
 
 
+You can add the UP and DOWN tracking
+
+
+
 ## Prerequisites
 Harware Stuff
 - Arduino Uno
